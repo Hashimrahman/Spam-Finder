@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "6e3141bb-c486-43a3-894d-df04be33f70c",
+      "fullName": "Hashim Rahman P",
+      "email": "hashimrahmanrh@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "isLoggedIn": true,
+      "contacts": [
+        {
+          "id": 1729578558923,
+          "name": "Hashim Rahman ",
+          "email": "hashimrahmanrh@gmail.com",
+          "phone": "9072827658",
+          "isSpam": false
+        },
+        {
+          "id": 1729578772910,
+          "name": "Afsal",
+          "email": "afsal@gmail.com",
+          "phone": "0987654321",
+          "isSpam": true
+        },
+        {
+          "id": 1729579003717,
+          "name": "Angad",
+          "email": "Angad@gmail.com",
+          "phone": "98765432567",
+          "isSpam": false
+        },
+        {
+          "id": 1729579059071,
+          "name": "Navya",
+          "email": "Navya@gmail.com",
+          "phone": "3547689017",
+          "isSpam": true
+        },
+        {
+          "id": 123456789,
+          "name": "test",
+          "email": "test@gmail.com",
+          "phone": 1234567890,
+          "isSpam": false
+        }
+      ]
+    },
+    {
+      "id": "299daa8e-b42e-42aa-a171-5ff4d53c75d3",
+      "fullName": "dev",
+      "email": "dev@gmail.com",
+      "password": "111111",
+      "confirmPassword": "111111",
+      "isLoggedIn": true,
+      "contacts": [
+        {
+          "id": 1,
+          "name": "test",
+          "email": "test@gmail.com",
+          "phone": 1234567890,
+          "isSpam": false
+        }
+      ]
+    },
+    {
+      "id": "1673749e-1465-4b94-aacb-eb1fcbc063ed",
+      "fullName": "Dev1",
+      "email": "dev1@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "isLoggedIn": true,
+      "contacts": [
+        {
+          "id": 1729578772910,
+          "name": "Afsal3",
+          "email": "afsal@gmail.co",
+          "phone": "0987654321",
+          "isSpam": false
+        },
+        {
+          "id": 1729578975550,
+          "name": "Hashim Rahman P",
+          "email": "hashimrahmanrh@gmail.com",
+          "phone": "9072827658",
+          "isSpam": false
+        },
+        {
+          "id": 1729579003717,
+          "name": "Angad",
+          "email": "Angad@gmail.com",
+          "phone": "98765432567",
+          "isSpam": false
+        },
+        {
+          "id": 1729579059071,
+          "name": "Navya",
+          "email": "Navya@gmail.com",
+          "phone": "3547689017",
+          "isSpam": false
+        },
+        {
+          "id": 1729579121027,
+          "name": "test",
+          "email": "test@gmail.com",
+          "phone": "0987654321",
+          "isSpam": false
+        },
+        {
+          "id": 1729579208894,
+          "name": "Test2",
+          "email": "test2@gmail.com",
+          "phone": "12093487",
+          "isSpam": true
+        }
+      ]
+    }
+  ]
+}
